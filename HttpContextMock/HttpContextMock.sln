@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpContextMock.WebApi.UnitTests", "HttpContextMock.WebApi.UnitTests\HttpContextMock.WebApi.UnitTests.csproj", "{E99F205D-3E6A-424D-BBB3-7AAC9F818901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpContextMock.WebApi", "HttpContextMock.WebApi\HttpContextMock.WebApi.csproj", "{D24CD5A6-E603-4DA6-8884-BDB84C022E64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpContextMock.WebApp", "HttpContextMock.WebApp\HttpContextMock.WebApp.csproj", "{DEC3194D-9E62-4C5F-8E56-9C464C203B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpContextMock.WebApp.UnitTests", "HttpContextMock.WebApp.UnitTests\HttpContextMock.WebApp.UnitTests.csproj", "{983C77A2-FAD5-4953-B217-75E33F68783C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E99F205D-3E6A-424D-BBB3-7AAC9F818901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99F205D-3E6A-424D-BBB3-7AAC9F818901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99F205D-3E6A-424D-BBB3-7AAC9F818901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99F205D-3E6A-424D-BBB3-7AAC9F818901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24CD5A6-E603-4DA6-8884-BDB84C022E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24CD5A6-E603-4DA6-8884-BDB84C022E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24CD5A6-E603-4DA6-8884-BDB84C022E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24CD5A6-E603-4DA6-8884-BDB84C022E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC3194D-9E62-4C5F-8E56-9C464C203B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC3194D-9E62-4C5F-8E56-9C464C203B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC3194D-9E62-4C5F-8E56-9C464C203B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC3194D-9E62-4C5F-8E56-9C464C203B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983C77A2-FAD5-4953-B217-75E33F68783C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983C77A2-FAD5-4953-B217-75E33F68783C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983C77A2-FAD5-4953-B217-75E33F68783C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983C77A2-FAD5-4953-B217-75E33F68783C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

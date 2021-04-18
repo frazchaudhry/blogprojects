@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9cIsYdSBL6l2xFhdpraNnGcNaK8yKN0QNWw3WRFQ85gSRg1vCn7OUMj5JLl6qfQlPVfj/BHVvYOSnt86zXIVBw==",
+  "success": true,
+  "projectFilePath": "/home/fraz/Programs/BlogProjects/HttpContextMock/HttpContextMock.WebApi/HttpContextMock.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/fraz/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/fraz/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/fraz/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/fraz/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/fraz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/fraz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
